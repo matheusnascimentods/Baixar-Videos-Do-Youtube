@@ -8,4 +8,4 @@ Esta aplicação baixa vídeos do YouTube em .MP4, eu fiz este projeto por dois 
 
 Abaixo vocês podem ver uma captura de tela do programa em ação.
 
-![Screnshot](https://github.com/Matheus-dev58/Calculadora-De-Imc/blob/main/IMCCalculator/src/Img/Screnshot.png)
+![Screnshot](https://github.com/Matheus-dev58/Baixar-Videos-Do-Youtube/blob/main/imgGit/Captura%20de%20tela%202021-06-29%20211151.png)
